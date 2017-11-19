@@ -1,0 +1,4 @@
+<h3>my paragraph </h3>
+  <a ng-click="goParaBody()" class="btn btn-danger">load body</a>
+  
+  <div ui-view></div>
